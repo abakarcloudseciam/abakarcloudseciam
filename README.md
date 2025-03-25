@@ -45,7 +45,6 @@ As an IAM Analyst with a strong foundation in Identity and Access Management, I 
 <a href="https://www.credly.com/badges/790b8a4c-8f8f-45e3-923c-afbb21fcc1a1/linked_in_profile">
   <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
 </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://learn.microsoft.com/en-us/users/abakaribnoumar-6117/credentials/7499015586a76686?ref=https%3A%2F%2Fwww.linkedin.com%2F">
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals" />
 </a>
