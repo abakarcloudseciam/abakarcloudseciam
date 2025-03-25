@@ -3,17 +3,17 @@
 As an IAM Analyst with a strong foundation in Identity and Access Management, I am expanding my expertise into Cloud Security to enhance my ability to safeguard enterprise environments.  My goal is to bridge the gap between identity management and cloud security to ensure robust protection for organizations' digital assets.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!--[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]-->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
               
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+<!--| Scripting and Automation for Threat Mitigation | SOC Automation Lab|-->
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
 
 ### IAM Solutions:
 <div>
@@ -24,8 +24,7 @@ As an IAM Analyst with a strong foundation in Identity and Access Management, I 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+   </div>
 
 ### SIEM
 <div>
@@ -35,7 +34,7 @@ As an IAM Analyst with a strong foundation in Identity and Access Management, I 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]-->
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
