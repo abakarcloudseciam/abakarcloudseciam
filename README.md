@@ -18,12 +18,13 @@ As an IAM Analyst with a strong foundation in Identity and Access Management, I 
 ### IAM Solutions:
 <div>
  <a href="https://www.okta.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white" />
+<img src="https://img.shields.io/badge/-Okta-007DC1?&style=for-the-badge&logo=okta&logoColor=white"/>
 </a>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <a href="https://www.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
    </div>
 
 ### SIEM
