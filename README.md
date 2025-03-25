@@ -23,7 +23,7 @@ As an IAM Analyst with a strong foundation in Identity and Access Management, I 
 
 ### Endpoint
 <div>
-   <a href="https://learn.microsoft.com/en-us/defender-business//target="_blank">
+   <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint?msockid=23380bc79eee615613e818fd9f816078 target="_blank">
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
    </div>
 
