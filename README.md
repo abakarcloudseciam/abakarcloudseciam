@@ -1,4 +1,7 @@
 # Hello, I'm Abakar
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=abakarcloudseciam.abakarcloudseciam)
+
+abakarcloudseciam/abakarcloudseciam
 
 As an IAM Analyst with a strong foundation in Identity and Access Management, I am expanding my expertise into Cloud Security to enhance my ability to safeguard enterprise environments.  My goal is to bridge the gap between identity management and cloud security to ensure robust protection for organizations' digital assets.
 
