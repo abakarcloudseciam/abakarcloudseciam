@@ -31,6 +31,7 @@ As an IAM Analyst with a strong foundation in Identity and Access Management, I 
 <div>
     <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank">
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://www.splunk.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
