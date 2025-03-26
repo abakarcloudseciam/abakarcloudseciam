@@ -4,8 +4,9 @@
 
 # Hello, I'm Abakar
 
-
 As an IAM Analyst with a strong foundation in Identity and Access Management, I am expanding my expertise into Cloud Security to enhance my ability to safeguard enterprise environments.  My goal is to bridge the gap between identity management and cloud security to ensure robust protection for organizations' digital assets.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abakarcloudseciam&hide=contribs,prs)
 
 ## Skills
 <!--[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]-->
