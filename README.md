@@ -2,9 +2,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abakarcloudseciam.abakarcloudseciam" alt="Visitor Count">
 </div>
 
-# Hello, I'm Abakar
+# Hello, Abakar Ibn Oumar
 
-I am an IAM Analyst with a strong foundation in Identity and Access Management, I am expanding my expertise into Cloud Security an AI to enhance my ability to safeguard enterprise environments.  My goal is to bridge the gap between identity management and cloud security to ensure robust protection for organizations' digital assets.
+I am Abakar, IAM Analyst with a strong foundation in Identity and Access Management, I am expanding my expertise into Cloud Security and AI to enhance my ability to safeguard enterprise environments.  My goal is to bridge the gap between identity management and cloud security to ensure robust protection for organizations' digital assets.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abakarcloudseciam&hide=contribs,prs)
 
