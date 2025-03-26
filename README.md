@@ -1,5 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abakarcloudseciam.abakarcloudseciam
-abakarcloudseciam.abakarcloudseciam" />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abakarcloudseciam.abakarcloudseciam" alt="Visitor Count">
+</div>
 
 # Hello, I'm Abakar
 
